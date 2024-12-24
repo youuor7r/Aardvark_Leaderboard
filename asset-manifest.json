@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aardvark_leaderboard/static/css/main.caf760c1.css",
+    "main.js": "/Aardvark_leaderboard/static/js/main.474ae7b5.js",
+    "index.html": "/Aardvark_leaderboard/index.html",
+    "main.caf760c1.css.map": "/Aardvark_leaderboard/static/css/main.caf760c1.css.map",
+    "main.474ae7b5.js.map": "/Aardvark_leaderboard/static/js/main.474ae7b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caf760c1.css",
+    "static/js/main.474ae7b5.js"
+  ]
+}
