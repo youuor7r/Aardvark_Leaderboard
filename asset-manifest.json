@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Aardvark_Leaderboard/static/css/main.caf760c1.css",
-    "main.js": "/Aardvark_Leaderboard/static/js/main.474ae7b5.js",
+    "main.js": "/Aardvark_Leaderboard/static/js/main.c28bcf03.js",
     "index.html": "/Aardvark_Leaderboard/index.html",
     "main.caf760c1.css.map": "/Aardvark_Leaderboard/static/css/main.caf760c1.css.map",
-    "main.474ae7b5.js.map": "/Aardvark_Leaderboard/static/js/main.474ae7b5.js.map"
+    "main.c28bcf03.js.map": "/Aardvark_Leaderboard/static/js/main.c28bcf03.js.map"
   },
   "entrypoints": [
     "static/css/main.caf760c1.css",
-    "static/js/main.474ae7b5.js"
+    "static/js/main.c28bcf03.js"
   ]
 }
